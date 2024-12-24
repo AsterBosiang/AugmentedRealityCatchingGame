@@ -50,23 +50,6 @@ An augmented reality game developed with Unity and Vuforia where players catch f
 5. Game ends after 25 seconds
 6. Final score displayed with rotating apple animation
 
-## 📸 Recommended Images for Documentation
-
-1. `gameplay.png` - Screenshot of actual gameplay showing:
-   - AR basket attached to image target
-   - Falling apples
-   - Score and timer UI
-
-2. `components.png` - Diagram showing:
-   - Image target setup
-   - Basket and apple prefabs
-   - UI layout
-
-3. `game_flow.png` - Visual representation of:
-   - Countdown screen
-   - Main gameplay
-   - Game over screen
-
 ## 🔧 Technical Requirements
 - Unity 2020.3 or higher
 - Vuforia Engine
