@@ -40,8 +40,6 @@ An augmented reality game developed with Unity and Vuforia where players catch f
 - Controls the 3D apple model rotation in the game over screen
 - Provides smooth continuous rotation using `Time.deltaTime`
 
-![Game Flow](images/game_flow.png)
-
 ## 🎯 Game Flow
 1. Start screen with 3-2-1 countdown
 2. Apples start falling from random positions at the top
